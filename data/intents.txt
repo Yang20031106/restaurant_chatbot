@@ -1,0 +1,253 @@
+text	intent	emotion
+Hiya!	greeting	none
+That’s unrelated	fallback	none
+Do you have a phone number?	faq	none
+I love this place	other	positive
+I don’t understand	fallback	none
+Do you serve desserts?	menu	none
+Good morning	greeting	none
+See you soon	farewell	none
+This is terrible	other	negative
+What are your business hours?	faq	none
+Alright	other	neutral
+Can you clarify?	fallback	none
+What drinks do you offer?	menu	none
+Bye-bye	farewell	none
+That sounds delicious	other	positive
+Do you have outdoor seating?	faq	none
+I regret coming here	other	negative
+Goodbye	farewell	none
+Makes sense	other	neutral
+What seafood dishes do you have?	menu	none
+You’re so helpful	other	positive
+Say that again?	fallback	none
+What’s on the menu?	menu	none
+I have a bad day	other	negative
+Hi there stranger	greeting	none
+I’m lost	fallback	none
+Is there a dress code?	faq	none
+I’m really happy with this	other	positive
+Can I make a reservation?	faq	none
+Got it	other	neutral
+What’s your address?	faq	none
+That’s confusing	fallback	none
+Tell me your opening times	faq	none
+Take care	farewell	none
+That’s okay	other	neutral
+What soups do you have?	menu	none
+I’m frustrated right now	other	negative
+Welcome back!	greeting	none
+I’ll keep that in mind	other	neutral
+What’s your best-selling dish?	menu	none
+This makes me smile	other	positive
+Not sure what you mean	fallback	none
+Do you serve coffee?	menu	none
+I’m upset about this	other	negative
+Hey there	greeting	none
+Can I see your menu?	menu	none
+That was fun, bye!	farewell	none
+This is really bad	other	negative
+I suppose so	other	neutral
+Do you have a wine list?	menu	none
+See ya!	farewell	none
+I’m feeling great right now	other	positive
+Wait, what?	fallback	none
+Have a great evening	farewell	none
+What time do you close?	faq	none
+I hate this	other	negative
+That’s reasonable	other	neutral
+Where are you located?	faq	none
+You’ve made my day	other	positive
+Alright then	other	neutral
+What dishes do you serve?	menu	none
+Can I change my booking?	faq	none
+I’m unhappy with this	other	negative
+Hey! Nice to see you	greeting	none
+What’s that?	fallback	none
+Do you have vegetarian options?	faq	none
+I’m so disappointed	other	negative
+I see what you mean	other	neutral
+I really enjoyed that	other	positive
+I’ll see you around	farewell	none
+That’s the worst	other	negative
+Can I make a reservation?	faq	none
+I appreciate your help	other	positive
+Huh?	fallback	none
+Do you offer parking?	faq	none
+That’s off-topic	fallback	none
+Show me your menu please	menu	none
+I’m feeling great right now	other	positive
+I’m upset about this	other	negative
+Good afternoon	greeting	none
+That’s fine	other	neutral
+Have a good day	farewell	none
+This makes me angry	other	negative
+No problem	other	neutral
+What are you talking about?	fallback	none
+Where are you located?	faq	none
+What drinks do you offer?	menu	none
+Good evening	greeting	none
+I love the atmosphere here	other	positive
+Can I get a vegan option?	menu	none
+Do you accept walk-ins?	faq	none
+I’m frustrated with the service	other	negative
+What desserts do you have?	menu	none
+That was amazing!	other	positive
+Is there outdoor seating?	faq	none
+I’m confused about the menu	fallback	none
+What time do you open?	faq	none
+That’s okay	other	neutral
+I’d like to book a table	faq	none
+What’s your best dish?	menu	none
+I’m really happy with the food	other	positive
+Can I change my booking?	faq	none
+I don’t understand	fallback	none
+Do you have gluten-free meals?	menu	none
+Where is the restaurant located?	faq	none
+I’m upset about the wait time	other	negative
+What’s on the menu today?	menu	none
+Hey, how are you?	greeting	none
+I wish I never tried that dish	other	negative
+Can you explain the specials?	faq	none
+I’m feeling good today	other	positive
+Do you have a kids’ menu?	faq	none
+That doesn’t make sense	fallback	none
+Do you have a phone number?	faq	none
+Thanks, that was helpful!	other	positive
+What kind of drinks do you have?	menu	none
+I’m disappointed with the food	other	negative
+Hello there	greeting	none
+Can I see the wine list?	menu	none
+I’m feeling okay today	other	neutral
+Is there a dress code?	faq	none
+What time do you close?	faq	none
+I don’t get that	fallback	none
+Can I get a burger?	menu	none
+I love this place	other	positive
+Do you allow pets?	faq	none
+I’m having a bad day	other	negative
+Tell me about your food	menu	none
+I’m confused	fallback	none
+I’ll keep that in mind	other	neutral
+Is there parking available?	faq	none
+That was very kind of you!	other	positive
+Do you serve pasta?	menu	none
+I’m so angry right now	other	negative
+See you later	farewell	none
+What soups do you have?	menu	none
+What’s your address?	faq	none
+I’m unhappy with this	other	negative
+Thanks for your help!	other	positive
+Good night	farewell	none
+I don’t understand what you mean	fallback	none
+Are you open on public holidays?	faq	none
+I’m feeling great	other	positive
+Can you clarify that?	fallback	none
+What drinks do you serve?	menu	none
+That’s unacceptable	other	negative
+I’m sorry, I don’t get that	fallback	none
+Can I book a table?	faq	none
+I’m feeling sad today	other	negative
+What’s your special today?	menu	none
+That was fantastic!	other	positive
+Do you have outdoor seating?	faq	none
+That’s random	fallback	none
+Where can I find you?	faq	none
+I really enjoyed that	other	positive
+Goodbye	farewell	none
+I don’t know what you mean	fallback	none
+Is there a kids’ menu?	faq	none
+Can you repeat that?	fallback	none
+I wish I never tried this	other	negative
+Hello!	greeting	none
+What’s your phone number?	faq	none
+I’m feeling okay	other	neutral
+Do you offer delivery?	faq	none
+Can I make a reservation?	faq	none
+That’s fine	other	neutral
+Do you take walk-ins?	faq	none
+I’m really happy with this	other	positive
+What’s your best selling dish?	menu	none
+I’m so disappointed	other	negative
+That makes no sense	fallback	none
+I’m having a bad day	other	negative
+What drinks do you serve?	menu	none
+Can you repeat that?	fallback	none
+I’m frustrated right now	other	negative
+Good to see you here	greeting	none
+I’m unhappy with this	other	negative
+What’s your address?	faq	none
+Couldn’t be happier	other	positive
+Tell me your opening times	faq	none
+I’m feeling great right now	other	positive
+Is there a dress code?	faq	none
+I’m so sad today	other	negative
+What’s your best-selling dish?	menu	none
+What soups do you have?	menu	none
+That was very kind of you	other	positive
+What time do you close?	faq	none
+Can I get a burger here?	menu	none
+I don’t understand	fallback	none
+Do you have a wine list?	menu	none
+What’s your special today?	menu	none
+What’s your phone number?	faq	none
+I’m really upset right now	other	negative
+What’s your best dish?	menu	none
+I’m feeling happy today	other	positive
+See you soon	farewell	none
+Thanks for your help!	other	positive
+Where are you located?	faq	none
+That was great!	other	positive
+Have a great day	farewell	none
+Is there parking?	faq	none
+I’m sorry, I didn’t catch that	fallback	none
+What’s on the menu?	menu	none
+Do you serve coffee?	menu	none
+Alright	other	neutral
+What drinks do you offer?	menu	none
+That’s perfect!	other	positive
+I’m so upset about this	other	negative
+Can you clarify?	fallback	none
+Have a good day	farewell	none
+Can I change my booking?	faq	none
+Do you have gluten-free meals?	menu	none
+I don’t understand what you mean	fallback	none
+Can I get a vegan meal?	menu	none
+Thanks, you’re so helpful!	other	positive
+Can I book a table?	faq	none
+What time do you open?	faq	none
+What kind of food do you serve?	menu	none
+I don’t know what you mean	fallback	none
+I love this restaurant!	other	positive
+That was very kind of you!	other	positive
+That’s okay	other	neutral
+Can I see your menu?	menu	none
+I’m feeling good today	other	neutral
+What dishes do you serve?	menu	none
+Is there a dress code?	faq	none
+Thanks!	other	positive
+I’m confused	fallback	none
+I’m so disappointed	other	negative
+I’m feeling sad today	other	negative
+Can I get a table for two?	faq	none
+I don’t understand	fallback	none
+Can you explain the specials?	faq	none
+That’s fine	other	neutral
+I’m really happy with this	other	positive
+What’s your special today?	menu	none
+I don’t get it	fallback	none
+I’m having a bad day	other	negative
+What’s your favorite dish?	menu	none
+I’m really upset	other	negative
+Good evening	greeting	none
+I wish I never tried this	other	negative
+What kind of drinks do you have?	menu	none
+What are your business hours?	faq	none
+What’s your best-selling dish?	menu	none
+Can I make a reservation?	faq	none
+I’m feeling great today	other	positive
+Can I get a burger?	menu	none
+Do you have vegetarian options?	faq	none
+I’m so angry right now	other	negative
+What desserts do you have?	menu	none
+Is there outdoor seating?	faq	none
